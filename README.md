@@ -1,4 +1,4 @@
-Basic Java Application  
+Basic Chat Application  
 This repository contains a basic Java application with a Server and Client. The server listens for incoming connections, while the client connects to the server and sends data.
 
 Prerequisites
